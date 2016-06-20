@@ -1,7 +1,7 @@
 {
     "name": "irrelon-colors",
     "description": "Get colors in your node.js console",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Irrelon Software Limited",
     "homepage": "https://github.com/irrelon/irrelon-colors",
     "bugs": "https://github.com/irrelon/irrelon-colors/issues",
